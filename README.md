@@ -29,9 +29,9 @@ classDiagram
         +List~String~ phone_number
     }
 
-    Usuario --> Account
-    Usuario --> PersonalData
-    Usuario --> Contact
+    User --> Account
+    User --> PersonalData
+    User --> Contact
 ```
 
 ```mermaid
