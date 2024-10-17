@@ -14,7 +14,7 @@ classDiagram
         +Contact contact
     }
 
-    class Login {
+    class Account {
         +String user
         +String password
     }
